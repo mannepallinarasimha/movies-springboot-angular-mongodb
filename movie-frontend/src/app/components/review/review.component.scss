@@ -1,0 +1,16 @@
+.review-contailer{
+    width: 100vw;
+    min-height: calc(100vh - 55.97px);
+    background-color: #000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.review-contailer > div{
+    padding: 2em;
+}
+.poster-img{
+    border-radius: 10px;
+    border: 2px solid gold;
+    width: 320px;
+}
